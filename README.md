@@ -1,12 +1,10 @@
-<h2><b>List of Projects </b></h2>
-
-01 https://seogoldcoast.com.au <br>
-02 https://www.amaze.org.au <br>
-03 https://www.shapehomes.com.au <br>
-04 https://www.presalesbc.com <br>
-05 https://dezaolaw.com <br>
-06 https://findsecondsight.com <br>
-07 http://www.caymanleasing.com <br>
+01 https://www.graintex.com<br>
+02 https://www.chemyo.com<br>
+03 http://www.specializedweb.com <br>
+04 https://www.uniflexinc.com<br>
+05 https://pokenobuildingsupplies.co.nz<br>
+06 https://www.automotiveservicetraining.com<br>
+07 https://www.germisept.com<br>
 08 https://www.hudsonscoffee.com.au <br>
 09 http://goldendoor.com <br>
 10 https://www.zoom2u.com.au <br>
@@ -34,7 +32,7 @@
 32 https://unionhouse.com.au <br>
 33 https://shapirolegal.com <br>
 34 http://nutricare.co.kr <br>
-35 http://www.specializedweb.com <br>
+35 https://www.shapehomes.com.au <br>
 36 https://www.theramblermotel.com<br>
 37 https://theadvantaged.com <br>
 38 https://www.swatmosquitosystems.com <br>
@@ -45,7 +43,7 @@
 43 https://www.telefotomaton.es <br>
 44 https://funejardin.es <br>
 45 https://www.tvcloud.com.au<br>
-46 https://pokenobuildingsupplies.co.nz<br>
+46 https://dezaolaw.com <br>
 47 https://varanasi-for-animals.webflow.io<br>
 48 https://celestialcare.com.au<br>
 49 https://stairliftscomparison.com<br>
@@ -53,7 +51,7 @@
 51 https://www.oneplanetpizza.com<br>
 52 https://pagination.com<br>
 53 https://www.soccer-assist.co.uk<br>
-55 https://www.chemyo.com<br>
+54 https://www.amaze.org.au <br>
 55 https://www.secure-recruit.co.uk<br>
 56 https://www.prvisioncare.com<br>
 57 https://inmobiliaria.cushmanwakefield.es<br>
@@ -68,7 +66,7 @@
 66 https://piccadillyinc.com<br>
 67 https://framelink.co.nz<br>
 68 https://mountainretreat.us<br>
-69 https://www.uniflexinc.com<br>
+69 https://www.presalesbc.com <br>
 70 https://www.seapointe.com<br>
 71 https://millerandhinelaw.com<br>
 72 https://hllawfirm.com<br>
@@ -86,7 +84,7 @@
 84 https://www.weinbergerlawaz.com<br>
 85 http://nurse-lawyer.com<br>
 86 https://www.hazmatuniversity.com<br>
-87 https://www.automotiveservicetraining.com<br>
+87 https://findsecondsight.com <br>
 88 https://www.affordabledebtrelief.com<br>
 89 https://www.pathlawgroup.com<br>
 90 https://www.thefacilitybocaraton.com<br>
@@ -104,10 +102,10 @@
 102 https://smileshinedentistry.com<br>
 103 https://www.cbdremovalssydney.com.au<br>
 104 https://epicems.com<br>
-105 https://www.graintex.com<br>
+105 https://seogoldcoast.com.au <br>
 106 https://pinnacleaircraftengines.com<br>
 107 https://lavanarestaurant.com.au<br>
-108 https://www.germisept.com<br>
+108 http://www.caymanleasing.com <br>
 109 http://freshnaps.com<br>
 110 https://birdtalkers.in<br>
 111 http://fightperiodpoverty.org<br>
